@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="feedbackname">Name</string>
+    <string name="feedbacktitle">Your Feedback</string>
+    <string name="feedbackemail">E-Mail</string>
+    <string name="feedbacktype1">Respect the Devs</string>
+    <string name="feedbacktype2">Inconsistency Things</string>
+    <string name="feedbacktype3">Suggestion-ify</string>
+    <string name="feedbacktype4">Bugs Bro Bugs</string>
+    <string name="feedbacktype">Feedback Type</string>
+    <string name="feedbackbody">Feedback Body</string>
+</resources>
